@@ -1,1 +1,1 @@
-# bookbot
+Book bot is a demo project
